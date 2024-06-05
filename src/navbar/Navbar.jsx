@@ -36,3 +36,4 @@ const Navbar = () => {
     </Box>
   );
 };
+export default Navbar;
